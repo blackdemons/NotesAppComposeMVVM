@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <targetSelectedWithDropDown>
+      <Target>
+        <type value="BOOT_WITH_SNAPSHOT_TARGET" />
+        <deviceKey>
+          <Key>
+            <type value="VIRTUAL_DEVICE_PATH" />
+            <value value="D:\Android\.android\avd\6.7_Horizontal_Fold-in_API_31.avd" />
+          </Key>
+        </deviceKey>
+        <snapshotKey value="D:\Android\.android\avd\6.7_Horizontal_Fold-in_API_31.avd\snapshots\snap_2023-01-19_17-38-46" />
+      </Target>
+    </targetSelectedWithDropDown>
+    <timeTargetWasSelectedWithDropDown value="2023-01-23T09:25:58.684990200Z" />
+  </component>
+</project>
